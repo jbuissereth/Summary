@@ -1,4 +1,3 @@
-# Summary
 <header class="title">
 
 <figure class="artwork" id="hero">
